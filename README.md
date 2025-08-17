@@ -14,6 +14,7 @@ This project analyzes a retail bank’s customer dataset to identify patterns an
 The goal is to help banks proactively detect at-risk customers and implement targeted retention strategies, ultimately reducing churn rates and improving customer satisfaction.
 
 <h2>👨‍💻 Queueing and Inventory Optimization in Retail :</h2>
+https://github.com/Ananya123-da/projects/blob/main/queueing%20(2).pdf
 This project implements Single Item Inventory Modeling integrated with a Queueing Model to analyze supermarket sales data.
 Using real transaction data, it combines time-based analysis, market basket exploration, and operations research modeling to derive actionable business insights.
 
@@ -24,6 +25,7 @@ The aim of this project is to perform a detailed statistical analysis and predic
 Conducted statistical analysis on childhood myopia prevalence using R and regression models to address issue of Myopia among children. The multifaceted causes of myopia requires a comprehensive approach that encompasses environmental, behavioral, and genetic factors. Proactive measures to promote outdoor time, reduce near-work intensity, and raise awareness about myopia are essential for mitigating its impact and safeguarding vision health.
 
 <h2>👨‍💻 Exploration of Maternal Mortality in India :</h2>
+https://github.com/Ananya123-da/projects/blob/main/23375007%20(2).pdf
 This project investigates trends and socioeconomic factors affecting the Maternal Mortality Ratio (MMR) through data visualization and analysis.
 Using Power BI and Excel, the study identifies key patterns, correlations, and insights to better understand the drivers behind maternal health outcomes.
 
