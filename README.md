@@ -8,7 +8,7 @@
 - High School Diploma | Science with Math and Economics | Carmel Convent School (_2020_)
 
 ## Projects
-<h2>👨‍💻 Understanding and Predicting Bank Customer Attrition :</h2>
+<h2>👨‍💻 Understanding and Predicting Bank Customer Attrition :</h2> https://github.com/Ananya123-da/projects/blob/main/bank%20churning%2C%20ananya%20khanduri.pdf
 This project analyzes a retail bank’s customer dataset to identify patterns and factors influencing customer attrition (churn). Using demographic, financial, and behavioral features, it applies exploratory data analysis (EDA) and machine learning models to predict whether a customer is likely to leave the bank.
 The goal is to help banks proactively detect at-risk customers and implement targeted retention strategies, ultimately reducing churn rates and improving customer satisfaction.
 
